@@ -1,5 +1,5 @@
 # Server_EloRating
-Mod for a game called Blockland
+Mod for a game called Blockland written in TorqueScript
 
 Elo is calculated on each kill or death and the difference is subtracted from the losing player's Elo rating and added to the winning player.
 
