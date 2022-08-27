@@ -1,0 +1,4 @@
+Title: Server_EloRating
+Author: c[_]
+Elo rating prefix
+Code written using Pecon's (9643) levels mod as a base <3  
